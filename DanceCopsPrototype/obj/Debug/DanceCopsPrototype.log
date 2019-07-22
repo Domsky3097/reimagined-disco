@@ -1,0 +1,33 @@
+﻿  arrows.cpp
+  bullets.cpp
+  criminals.cpp
+  gameWorld.cpp
+  hud.cpp
+  main.cpp
+  ofApp.cpp
+src\gameWorld.cpp(80): warning C4018: '<': signed/unsigned mismatch
+src\gameWorld.cpp(92): warning C4018: '<': signed/unsigned mismatch
+src\gameWorld.cpp(95): warning C4018: '<': signed/unsigned mismatch
+src\gameWorld.cpp(116): warning C4018: '<': signed/unsigned mismatch
+src\gameWorld.cpp(167): warning C4018: '<': signed/unsigned mismatch
+src\gameWorld.cpp(170): warning C4018: '<': signed/unsigned mismatch
+src\gameWorld.cpp(173): warning C4018: '<': signed/unsigned mismatch
+src\gameWorld.cpp(232): warning C4018: '<': signed/unsigned mismatch
+src\gameWorld.cpp(237): warning C4018: '<': signed/unsigned mismatch
+src\gameWorld.cpp(242): warning C4018: '<': signed/unsigned mismatch
+  DanceCopsPrototype.vcxproj -> D:\Domsky3097\Documents\OpenFrameWorks\openFrameworks-master\apps\myApps\DanceCopsPrototype\bin\DanceCopsPrototype_debug.exe
+  DanceCopsPrototype.vcxproj -> bin\DanceCopsPrototype_debug.pdb (Full PDB)
+  
+  	                   1	D:\Domsky3097\Documents\OpenFrameWorks\openFrameworks-master\libs\assimp\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	D:\Domsky3097\Documents\OpenFrameWorks\openFrameworks-master\apps\myApps\DanceCopsPrototype\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	D:\Domsky3097\Documents\OpenFrameWorks\openFrameworks-master\apps\myApps\DanceCopsPrototype\bin\fmodexL.dll
+  	  *EXTRA File 		 5647872	D:\Domsky3097\Documents\OpenFrameWorks\openFrameworks-master\apps\myApps\DanceCopsPrototype\bin\FreeImage.dll
+  
+  	                   2	D:\Domsky3097\Documents\OpenFrameWorks\openFrameworks-master\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 2828800	D:\Domsky3097\Documents\OpenFrameWorks\openFrameworks-master\apps\myApps\DanceCopsPrototype\bin\assimp32.dll
+  	  *EXTRA File 		 5647872	D:\Domsky3097\Documents\OpenFrameWorks\openFrameworks-master\apps\myApps\DanceCopsPrototype\bin\FreeImage.dll
+  
+  	                   1	D:\Domsky3097\Documents\OpenFrameWorks\openFrameworks-master\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 2828800	D:\Domsky3097\Documents\OpenFrameWorks\openFrameworks-master\apps\myApps\DanceCopsPrototype\bin\assimp32.dll
+  	  *EXTRA File 		 1266176	D:\Domsky3097\Documents\OpenFrameWorks\openFrameworks-master\apps\myApps\DanceCopsPrototype\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	D:\Domsky3097\Documents\OpenFrameWorks\openFrameworks-master\apps\myApps\DanceCopsPrototype\bin\fmodexL.dll
